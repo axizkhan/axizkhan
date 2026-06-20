@@ -183,9 +183,9 @@ Real-time messaging application.
 
 <p align="center">
   <a href="mailto:azizbohra03@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a> •
-  <a href="https://github.com/yourusername">GitHub</a> •
-  <a href="https://yourportfolio.com">Portfolio</a>
+  <a href="https://www.linkedin.com/in/aziz-khanji">LinkedIn</a> •
+  <a href="https://github.com/axizkhan">GitHub</a> •
+  <a href="https://portfolio-delta-virid-cn4ivzvtge.vercel.app">Portfolio</a>
 </p>
 
 <div align="center">
